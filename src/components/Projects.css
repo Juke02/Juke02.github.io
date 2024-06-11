@@ -10,16 +10,6 @@
     padding-left: 40px;
   }
 
-  hr.divider {
-    border-top: 4px solid #ffcc00; 
-    border-bottom: 1px solid #ffcc00; 
-    border-right: 1px solid #ffcc00; 
-    border-left: 1px solid #ffcc00; 
-    border-radius: 3px; 
-    width: 75%; 
-    margin-top: -80px;
-  }
-
   .proj-details {
     margin-top: 40px;
   }
