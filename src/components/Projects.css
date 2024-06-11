@@ -9,3 +9,34 @@
     margin-top: -40px;
     padding-left: 40px;
   }
+
+  hr.divider {
+    border-top: 4px solid #ffcc00; 
+    border-bottom: 1px solid #ffcc00; 
+    border-right: 1px solid #ffcc00; 
+    border-left: 1px solid #ffcc00; 
+    border-radius: 3px; 
+    width: 75%; 
+    margin-top: -80px;
+  }
+
+  .proj-details {
+    margin-top: 40px;
+  }
+
+  .image {
+    margin-top: -10px;
+    box-shadow: 5px 5px 5px 0px #361d539c;
+    border: 2px solid #ffffff;
+    width: 60%;
+    height: auto;
+  }
+
+  a {
+    color: #ff9900; /* Set the default color for links */
+    text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+  color: #ffcc00; /* Change color on hover */
+}
