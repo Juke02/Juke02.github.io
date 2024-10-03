@@ -7,7 +7,7 @@ function About() {
       <h2>About me</h2>
       <hr className="divider" /> 
       <h3>I am currently enrolled in Sage Creek Highschool</h3>
-      <h3>The classes I will take my senior year are:</h3>
+      <h3>The classes that I am currently taking are:</h3>
       <div className="box">
         <h3>Engineering Design and Development</h3>
         <h3>AP Physics 1</h3>

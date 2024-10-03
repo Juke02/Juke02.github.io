@@ -14,6 +14,14 @@ function Projects() {
           <h3>Nontransitive Dice Calculator</h3>
         </a>
         <img src="/dice.png" alt="Dice" className="image" />
+        <a href="https://juke02.github.io/Dice-Probability-Calculator/" target="_blank" rel="noopener noreferrer">
+          <h3>Dice Probability Calculator (With dice dropping)</h3>
+        </a>
+        <img src="/prob.png" alt="Probability" className="image" />
+        <a href="https://juke02.github.io/maze-solver/" target="_blank" rel="noopener noreferrer">
+          <h3>AI Maze Solver</h3>
+        </a>
+        <img src="/maze.png" alt="Maze" className="image" />
       </div>
     </section>
   );
