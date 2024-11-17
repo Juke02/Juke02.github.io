@@ -22,6 +22,14 @@ function Projects() {
           <h3>AI Maze Solver</h3>
         </a>
         <img src="/maze.png" alt="Maze" className="image" />
+        <a href="https://juke02.github.io/sagecreekmap/" target="_blank" rel="noopener noreferrer">
+          <h3>Sage Creek Virtual Tour</h3>
+        </a>
+        <img src="/tour.png" alt="Tour" className="image" />
+        <a href="https://www.desmos.com/calculator/lc7i3r7tdf" target="_blank" rel="noopener noreferrer">
+          <h3>Desmos Bowmasters</h3>
+        </a>
+        <img src="/desmos.png" alt="Desmos" className="image" />
       </div>
     </section>
   );
